@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35707.178 d17.12
+VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoverletMissingAssembliesRepro", "CoverletMissingAssembliesRepro\CoverletMissingAssembliesRepro.csproj", "{D465DD32-86B9-41AF-9833-030A3CDD68DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{443EA7B9-3971-49DE-9874-18DF640FE078}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{D465DD32-86B9-41AF-9833-030A3CDD68DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D465DD32-86B9-41AF-9833-030A3CDD68DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D465DD32-86B9-41AF-9833-030A3CDD68DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{443EA7B9-3971-49DE-9874-18DF640FE078}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{443EA7B9-3971-49DE-9874-18DF640FE078}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{443EA7B9-3971-49DE-9874-18DF640FE078}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{443EA7B9-3971-49DE-9874-18DF640FE078}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
